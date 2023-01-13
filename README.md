@@ -2,7 +2,7 @@
 
 _Olá, eu sou o Henrique Luiz. Seja bem vindo!_
 
-_Estudando JavaScipt - Backend. Faculdade: Bacharelado em sistemas da informação. Idade: 22 Anos._
+_Estudando JavaScipt - Backend. Faculdade: Bacharelado em sistemas da informação. Idade: 23 Anos._
 
 
 <div align="center">
