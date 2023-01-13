@@ -26,4 +26,4 @@ _Estudando JavaScipt - Backend. Faculdade: Bacharelado em sistemas da informa√ß√
 </div
 
           
-          
+         
