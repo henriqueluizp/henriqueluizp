@@ -1,15 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Henrique%20Luiz%20Pereira&fontAlign=50&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Cross-Platform%20%7C%20Product%20Builder" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Mobile+Developer;Cross-Platform+Engineer;Flutter+Expert;Product+Focused" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20Developer-Specialized-4F46E5?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cross--Platform-Expert-7C3AED?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Brazil-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Henrique%20Luiz&fontAlign=50&fontAlignY=38&desc=Mobile%20Developer" />
 </p>
 
 <p align="center">
