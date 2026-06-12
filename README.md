@@ -77,16 +77,6 @@
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/henriqueluizp/henriqueluizp/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## Connect
-
 <p align="center">
   <a href="mailto:henriquelp.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
   <a href="https://www.linkedin.com/in/henrique-luiz-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
