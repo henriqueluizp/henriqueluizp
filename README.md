@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Henrique%20Luiz%20Pereira&fontAlign=50&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Cross-Platform%20%7C%20Product%20Builder" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Henrique%20Luiz%20Pereira&fontAlign=50&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Cross-Platform%20%7C%20Product%20Builder" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Mobile+Developer;Cross-Platform+Engineer;Flutter+%26+Native+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Mobile+Developer;Cross-Platform+Engineer;Flutter+Expert;Product+Focused" />
 </p>
 
 <p align="center">
@@ -31,7 +31,8 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,dart,csharp,java,swift,kotlin" />
+  <img src="https://skillicons.dev/icons?i=javascript,dart,csharp" />
+  <img src="https://skillicons.dev/icons?i=java,swift,kotlin" />
 </p>
 
 ### Mobile & Cross-Platform
@@ -46,7 +47,8 @@
 
 ### Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### Cloud & DevOps
@@ -85,3 +87,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" alt="Footer" />
+</p>
