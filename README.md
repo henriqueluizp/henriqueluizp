@@ -31,13 +31,12 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,dart,csharp" />
-  <img src="https://skillicons.dev/icons?i=java,swift,kotlin" />
+  <img src="https://skillicons.dev/icons?i=javascript,dart,c,java,python" />
 </p>
 
 ### Mobile & Cross-Platform
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,android,ios,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,react" />
 </p>
 
 ### Backend & Databases
