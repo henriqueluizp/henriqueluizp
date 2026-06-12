@@ -86,8 +86,6 @@
 
 ---
 
-<p align="center"><em>"Building high-performance mobile experiences through clean architecture and user-centric design."</em></p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" alt="Footer" />
 </p>
