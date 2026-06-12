@@ -1,223 +1,271 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9370DB&height=200&section=header&text=Henrique&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Henrique%20Luiz%20Pereira&fontAlign=50&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descAlign=50&descAlignY=58&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff" alt="Header" />
+</p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Front-End+%26+Mobile+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Products" alt="Typing SVG" /></a>
-  <br>
-  <img src="https://img.shields.io/badge/BSI_Undergrad-Uniavan_(Transferred)-8A2BE2?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Balne%C3%A1rio_Cambori%C3%BA,_Brazil-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=Web&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=yourgithub&color=9370DB&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/yourgithub?color=8A2BE2&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/yourgithub?color=4B0082&style=for-the-badge" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Enterprise-Grade+Software+Engineer;AI%2FML+Driven+Product+Engineer;Building+Scalable+Full-Stack+Platforms" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4F46E5?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Specialization-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Brazil-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="https://henriqueluizp.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=8B5CF6" /></a>
+  <a href="https://www.linkedin.com/in/henriqueluizp/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+  <a href="mailto:henriqueluizp@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+  <a href="https://github.com/henriqueluizp"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+</p>
 
-**Software Engineer** specializing in modern web and mobile interfaces. I architect high-performance, scalable applications with a product engineering mindset. My expertise spans across sophisticated front-end ecosystems and integrating AI/ML models into user-centric platforms.
-
-*   🚀 **Core Expertise:** Web & Mobile Interface Development, Software Architecture, Full Stack Systems.
-*   🧠 **AI/ML Focus:** Applying machine learning concepts to optimize financial portfolios and predictive analytics.
-*   🛠️ **Product Mindset:** Bridging the gap between complex engineering and intuitive user experiences.
-*   🎯 **Open To:** Senior Front-End Roles, Mobile (Flutter) Engineering, and Full-Stack opportunities.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=henriqueluizp&label=Profile%20Views&color=7C3AED&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/henriqueluizp?label=Followers&style=flat-square&color=6366F1" />
+  <img src="https://img.shields.io/github/stars/henriqueluizp?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=4F46E5" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## About
+
+Software Engineer focused on building reliable, secure, and high-performance digital products across web, cloud, and AI-enabled systems. I combine strong software engineering fundamentals with product thinking to ship scalable solutions that create measurable business impact.
+
+My work spans **full-stack application development**, **distributed backend systems**, and **AI/ML-powered features** for real-world workflows. I emphasize clean architecture, observability, developer experience, and maintainable delivery pipelines to support long-term product growth.
+
+### Open To
+- Senior Software Engineering opportunities
+- AI/ML Engineering and applied LLM product roles
+- Full-stack product engineering with cloud-native architecture
+- High-impact open-source collaboration
+
+---
+
+## Tech Stack
 
 ### Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,dart,python,cpp" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go,c,cpp,cs,bash" />
+</p>
 
 ### Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nextjs,redux" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma" />
+</p>
 
 ### Backend & Databases
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi,postgres,mysql,mongodb,redis" />
+</p>
 
 ### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,vscode,figma" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,git,linux,prometheus,grafana" />
+</p>
 
 ---
 
-## 🤖 AI & ML Expertise
-
-<div align="center">
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Predictive Modeling** | Advanced | Financial forecasting models for FIIs and equity markets (VALE3, PETR4). |
-| **NLP** | Intermediate | Integrating LLMs into mobile interfaces for habit analytics. |
-| **Computer Vision** | Intermediate | Pattern recognition systems and UI automated testing. |
-
-</div>
+|---|---|---|
+| Applied Machine Learning | Advanced | End-to-end model lifecycle, feature engineering, evaluation, and deployment workflows |
+| LLM Engineering | Advanced | Prompt orchestration, RAG systems, evaluation pipelines, and production integration |
+| MLOps | Advanced | Experiment tracking, model versioning, CI/CD for ML, and cloud-native inference services |
+| Data Engineering for AI | Advanced | Data pipelines, preprocessing, vector indexing, and analytics-ready data architecture |
+| Responsible AI | Proficient | Bias-aware evaluation, privacy-conscious design, and risk-aware deployment practices |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-  <summary><b>🔥 Flutter_Habits</b></summary>
-  <br>
-  <blockquote>
-    A daily habit-tracking mobile application utilizing complex heatmap activity visualizations to drive user retention and consistency.
-  </blockquote>
-  
-  | Metric | Detail |
-  | :--- | :--- |
-  | **Stack** | Flutter, Dart, Firebase, State Management |
-  | **Scale** | Cross-platform (iOS/Android) architectures |
-  | **Performance** | Optimized sliver rendering and grid layouts |
-  | **Security** | Encrypted local storage & secure auth |
-  | **Impact** | Implemented advanced UI logic with reliable daily state preservation |
-  | **Repository** | [View Source](#) |
-  
-  *This application features a robust UI architecture, ensuring daily task states are impeccably preserved across sessions, avoiding common state management pitfalls in complex grids.*
+  <summary><strong>AI-Powered Engineering Assistant Platform</strong></summary>
+
+A production-focused assistant platform for developer workflows, integrating retrieval, orchestration, and secure tool execution.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Python, FastAPI, PostgreSQL, Redis, Docker, AWS | Multi-tenant architecture with concurrent workflows | Sub-second retrieval with optimized caching and async orchestration | RBAC, audit trails, secret isolation, policy-based access | Reduced engineering task cycle time and improved delivery consistency | <a href="https://github.com/henriqueluizp">View Repo</a> |
+
+Built with a product-first mindset to support extensibility, observability, and enterprise-grade reliability requirements.
 </details>
 
 <details>
-  <summary><b>🐦 Twitter Interface Clone</b></summary>
-  <br>
-  <blockquote>
-    A high-fidelity replica of the Twitter web interface focused on component reusability, advanced styling, and modular architecture.
-  </blockquote>
-  
-  | Metric | Detail |
-  | :--- | :--- |
-  | **Stack** | React, TypeScript, Tailwind CSS |
-  | **Scale** | Responsive web application |
-  | **Performance** | Lazy loading, optimized DOM rendering |
-  | **Security** | XSS prevention in content rendering |
-  | **Impact** | Demonstrated elite-level CSS architecture and modern TS practices |
-  | **Repository** | [View Source](#) |
-  
-  *Built to refine UI design capabilities, establishing a comprehensive library of reusable components and standardizing sophisticated layout techniques.*
+  <summary><strong>Cloud-Native Full-Stack Product Suite</strong></summary>
+
+A scalable full-stack suite designed for high-throughput business operations, with resilient APIs and modern web UX.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| TypeScript, React, Node.js, PostgreSQL, Kubernetes, Terraform | Horizontal scaling on containerized infrastructure | Optimized API latency and CDN-backed frontend delivery | JWT/OAuth2, secure headers, rate limiting, encrypted data paths | Improved reliability and faster feature delivery for product teams | <a href="https://github.com/henriqueluizp">View Repo</a> |
+
+Engineered with clean boundaries between domain logic, infrastructure, and delivery pipelines for long-term maintainability.
 </details>
 
 <details>
-  <summary><b>📈 Portfolio Analytics Engine</b></summary>
-  <br>
-  <blockquote>
-    A personalized financial dashboard analyzing purchase cycles for equities (VALE3, PETR4) and real estate funds (FIIs).
-  </blockquote>
-  
-  | Metric | Detail |
-  | :--- | :--- |
-  | **Stack** | Next.js, Python, PostgreSQL, Pandas |
-  | **Scale** | Cloud-deployed data pipeline |
-  | **Performance** | Sub-second algorithmic data processing |
-  | **Security** | OAuth2, secure API endpoints |
-  | **Impact** | Automated personal investment strategies through algorithmic insights |
-  | **Repository** | [View Source](#) |
-  
-  *Engineered to bridge personal finance strategies with robust data analytics, providing real-time technical analysis and visualization.*
+  <summary><strong>Enterprise Data & Analytics Pipeline</strong></summary>
+
+A robust analytics pipeline for operational intelligence, near real-time processing, and decision support dashboards.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Python, Apache Spark, Airflow, dbt, AWS, Tableau/BI | Large-volume batch + scheduled processing | Optimized ETL runtime and reliable SLA-driven orchestration | IAM-based access controls, encrypted storage, compliance-aligned handling | Enabled faster decision cycles with trustworthy reporting layers | <a href="https://github.com/henriqueluizp">View Repo</a> |
+
+Delivered using engineering standards for data quality, lineage visibility, and reproducible analytical workflows.
 </details>
 
 ---
 
-## 💼 Professional Experience
+## Experience
 
-### Front-End & Mobile Engineer | **Tech Solutions Inc.**
-*June 2024 - Present*
+### Senior Software Engineer — Enterprise Product Engineering
+**2023 — Present**
 
-Led the development of highly interactive cross-platform applications, specializing in rich user interfaces and seamless backend integrations.
+Lead design and delivery of scalable software systems with a focus on performance, reliability, and secure-by-default architecture.
 
-*   Architected modular front-end codebases using React and TypeScript.
-*   Developed and deployed feature-rich Flutter applications, optimizing rendering performance with advanced slivers.
-*   Collaborated with design teams to translate complex Figma wireframes into pixel-perfect, responsive components.
+- Owned end-to-end engineering lifecycle from architecture through production operations
+- Implemented cloud-native deployment patterns for high availability and resilience
+- Drove AI-enhanced product capabilities to improve user and business outcomes
+- Partnered with product and design stakeholders to deliver measurable impact
 
-`Flutter` `React` `TypeScript` `Tailwind CSS` `Dart`
+**Skills:** `System Design` `Full Stack` `Cloud Architecture` `AI/ML Integration` `DevOps` `Product Engineering`
+
+### Software Engineer — Full-Stack & Platform Development
+**2020 — 2023**
+
+Built and scaled customer-facing products and internal platforms across frontend, backend, and data services.
+
+- Developed robust APIs and responsive interfaces for mission-critical workflows
+- Improved CI/CD standards, observability, and release quality
+- Optimized database access patterns and application-level performance
+- Contributed to security hardening and engineering best practices
+
+**Skills:** `React` `Node.js` `Python` `PostgreSQL` `Docker` `Kubernetes`
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-<div align="center">
+<p align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **Open Source Contributor** | Active contributions to modern UI frameworks and component libraries. |
-| **Performance Optimization** | Reduced application load times by 40% using advanced state management. |
-| **Top Developer Mentor** | Guided junior developers in React best practices and IDE optimizations. |
+|---|---|
+| Engineering Excellence | Consistently delivered high-impact features with production-grade quality standards |
+| AI Innovation | Implemented practical AI/ML capabilities that improved workflow efficiency and product intelligence |
+| Platform Reliability | Improved stability and deployment confidence through architecture and DevOps improvements |
+| Open Source Contribution | Contributed to community-driven development and collaborative engineering ecosystems |
 
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-  <h3>AWS</h3>
-  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Certified_Developer-9370DB?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-  <h3>Oracle</h3>
-  <img src="https://img.shields.io/badge/Oracle_Certified_Professional-4B0082?style=for-the-badge&logo=oracle&logoColor=white" />
-  
-  <h3>Cisco & NPTEL</h3>
-  <img src="https://img.shields.io/badge/Cisco_CCNA-8A2BE2?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL_Advanced_Algorithms-9370DB?style=for-the-badge&logo=nptel&logoColor=white" />
-</div>
+</p>
 
 ---
 
-## 💻 Coding Profiles
+## Certifications
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</div>
+### AWS
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-111827?style=for-the-badge&logo=amazonaws&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-111827?style=for-the-badge&logo=amazonaws&logoColor=8B5CF6" />
+</p>
 
----
+### Oracle
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=8B5CF6" />
+</p>
 
-## 📊 GitHub Analytics
+### NPTEL
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Data%20Science-111827?style=for-the-badge&logo=academia&logoColor=8B5CF6" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff&icon_color=9370DB" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" />
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithub&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&title_color=8A2BE2" alt="Trophies" />
-</div>
+### Cisco
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=8B5CF6" />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## Coding Profiles
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithub&bg_color=0D1117&color=8A2BE2&line=9370DB&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourgithub/yourgithub/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+<p align="center">
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" /></a>
+  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=8B5CF6" /></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-0A0A0A?style=for-the-badge&logo=codechef&logoColor=8B5CF6" /></a>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriqueluizp&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://streak-stats.demolab.com?user=henriqueluizp&theme=midnight-purple&hide_border=true&background=00000000" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueluizp&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=henriqueluizp&theme=onestar&no-frame=true&no-bg=true&margin-w=12&column=6" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueluizp&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=6366F1&point=A78BFA" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/henriqueluizp/henriqueluizp/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## Current Focus
 
 ```yaml
-Current_State:
-  Learning: "Advanced Machine Learning algorithms & Next.js 15 architectures."
-  Building: "Flutter_Habits - Refactoring heatmap components & daily state logic."
-  Exploring: "Financial markets, FIIs strategies, and predictive modeling algorithms."
-  Open_To: "Collaborations on scalable open-source UI libraries & mobile interfaces."
+learning:
+  - Advanced LLMOps patterns
+  - Distributed systems reliability engineering
+building:
+  - AI-enabled engineering productivity tools
+  - Scalable cloud-native full-stack products
+exploring:
+  - Applied retrieval architectures
+  - Platform performance optimization
+open_to:
+  - Senior Software Engineering roles
+  - AI/ML Engineering opportunities
+  - High-impact open-source collaboration
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:henriqueluizp@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+  <a href="https://www.linkedin.com/in/henriqueluizp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+  <a href="https://github.com/henriqueluizp"><img src="https://img.shields.io/badge/GitHub-Follow-0A0A0A?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+  <a href="https://henriqueluizp.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=8B5CF6" /></a>
+</p>
+
+---
+
+<p align="center"><em>"Engineering premium software experiences through scalable architecture, AI innovation, and product excellence."</em></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" alt="Footer" />
+</p>
