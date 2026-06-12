@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Henrique%20Luiz&fontAlign=50&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20Developer&color=0:0F172A,100:1E293B" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Henrique%20Luiz&fontAlign=50&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20Developer" /> </p>
 
 <p align="center">
   <a href="https://henriqueluizp.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=8B5CF6" /></a>
