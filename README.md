@@ -40,11 +40,6 @@
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
-
 ---
 
 ## GitHub Analytics
